@@ -24,3 +24,6 @@ Check version:
 In bash
 type command
 go version
+
+
+
