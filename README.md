@@ -21,5 +21,6 @@ How to Run
 Download and install Go from [https://go.dev/dl](https://go.dev/dl)
 
 Check version:
-bash
+In bash
+type command
 go version
